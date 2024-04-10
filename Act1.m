@@ -8,5 +8,3 @@ Gd = c2d(G,Tm, 'zoh')
 pzmap(G)
 title('Polos y ceros de G(s)')
 grid
-
-%% P
